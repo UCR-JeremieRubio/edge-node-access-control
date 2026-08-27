@@ -38,5 +38,5 @@ The MFRC522 module operates on the SPI bus. Upon scanning a physical tag, the fi
 
 ---
 ### Physical Build
-![Physical Breadboard Implementation]
+![Physical Breadboard Implementation](Physical_bread_board.png)
 
