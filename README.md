@@ -8,7 +8,7 @@ This repository contains the C++ firmware and hardware documentation for an embe
 
 Designed without reliance on I2C abstraction layers for the LCD to demonstrate a foundational understanding of low-level parallel data transmission and manual contrast voltage regulation.
 
-![Wokwi System Architecture](idle-state.png)
+![Wokwi System Architecture](Idle-State.png)
 
 
 ## Hardware Stack
